@@ -6,12 +6,6 @@ The TensorFlow Object Detection API is an open source framework built on top of
 TensorFlow that makes it easy to construct, train and deploy object detection
 models.
 
-<p align="center">
-  <img src="gif do video" width=300 height=300>
-  <img src="gif do gta" width=200 height=300>
-  <img src="gif do detector de produtos" width=200 height=300>
-</p>
-
 Quick Start:
 
   * <a href='object_detection_tutorial.ipynb'>
