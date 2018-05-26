@@ -6,6 +6,9 @@ __pycache__/
 # C extensions
 *.so
 
+# ecommerce detector
+research/ecommerce-detector
+
 # Distribution / packaging
 .Python
 env/
